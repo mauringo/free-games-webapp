@@ -5,7 +5,13 @@
 
 # Free-Games-webapp
 
+Intall the app and play with your browser!!
 
+Currently there are the following games:
+- snake
+- GBA emulator
+- Space Invaders
+- Tetris
 
 
 
